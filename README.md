@@ -1,4 +1,4 @@
-# INTEGRA--O_PAGAMENTOS
+# INTEGRACAO_PAGAMENTOS
 
 Este código é um exemplo simplificado de um sistema de pagamento em Python que permite que os clientes façam pagamentos online. Ele foi organizado em camadas para tornar o código mais organizado e fácil de manter. Vamos entender as partes principais:
 
